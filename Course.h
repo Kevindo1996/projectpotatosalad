@@ -12,7 +12,7 @@ class Course
 public:
 
 	// default constructor
-	hi tommy
+	
 
 	// setCourseInfo
 
